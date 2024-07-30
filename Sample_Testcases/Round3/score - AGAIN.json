@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "John Doe",
+      "class": "II CSE G",
+      "markOutOf10": 8.5
+    },
+    {
+      "name": "James Bond",
+      "class": "III AIML G",
+      "markOutOf10": 8.0
+    },
+    {
+      "name": "Tom Cruise",
+      "class": "IV CSE L",
+      "markOutOf10": 10.0
+    }
+  ]
+}
+    
+
+   
