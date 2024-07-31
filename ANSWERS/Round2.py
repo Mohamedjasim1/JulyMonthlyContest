@@ -1,7 +1,8 @@
 import json
 import pandas as pd
 
-#Load Json into Dictionary
+#Load Json from Json file and assign it into variable (Now it's Dictionary)
+
 with open('Round2.json','r') as f:
     w=json.load(f)
 
