@@ -1,7 +1,7 @@
 import os
 import json
 
-#Load json into Dictionary
+#Load json and convert into Dictionary
 with open("Round1\\Round1.json",'r') as f:
     Data=json.load(f)
 
